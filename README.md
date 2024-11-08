@@ -9,7 +9,7 @@
 Acharya AI is a **Personalized Learning Roadmap Generator** designed to guide users on their skill-building journeys. By entering a skill or topic, Acharya AI generates a tailored, step-by-step learning roadmap with high-quality resources, tutorials, and project ideas. Perfect for learners looking for a structured and effective path to mastering new skills!
 
 #
-#### Link to the web app: https://acharya-ai.streamlit.app/
+#### Link to the web app: https://acharya-ai.streamlit.app/](https://skill-roadmap-generator-jfgdnwbanwaiakro2retsa.streamlit.app
 
 ## 🚀 Features
 
